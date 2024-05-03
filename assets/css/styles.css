@@ -1,4 +1,20 @@
 
-body{
-  font-family: "Poppins";
+/*Variables #241e2e*/
+:root{
+  --color-principal: #FFFFFF;
+  --color-secondary: #7a60a2;
+
+  --color-background: #f2f2f9;
+  --color-transparent: transparent;
+
+  --color-icons: #B5B6B7;
+  --color-subtitle: #888;
+  --color-title: #222222;
+  --color-text:#555;
 }
+
+/*Estilos generales*/
+
+
+
+/*Estructura principal*/
